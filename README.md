@@ -27,7 +27,7 @@ Fnaqv vpv nqnynu anzn xbgv xrynuvean fnln: OERORF
 
 Setelah Anda menemukan **Nama Kota Kelahiran** tersebut, gunakan nama itu sebagai petunjuk untuk memasuki portal rahasia di bawah:
 
-[**GANTI DENGAN LINK KE GITHUB PAGES ANDA**]
+[**https://younglek911-rgb.github.io/WhoAmI-CTF-Entry1/**]
 
 > **PERINGATAN:** Jangan mudah menyerah. Setiap langkah membutuhkan detail dan observasi yang cermat.
 
